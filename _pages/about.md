@@ -19,10 +19,12 @@ He has organized his recent reading paper list in [awesome-ml-data-quality-paper
 
 # Recent Publications
 
-- **Deng, J.**, Shen, Y., Pei, Z., Chen, Y., & Huang, L. Influence Guided Context Selection for Effective Retrieval-Augmented Generation. In *The Thirty-ninth Annual Conference on Neural Information Processing Systems*. [paper](https://openreview.net/pdf?id=ugaepulZyA), [code](https://github.com/SJTU-DMTai/RAG-CSM)
+- [**KDD 2026**] **Deng, J.**, Shen, Y., Shi, X., & Junjun, C. (2026). _DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors_. [paper](https://arxiv.org/pdf/2606.11616), [code](https://github.com/SJTU-DMTai/DeMix)
 
-- **Deng, J.**, & Shen, Y. (2024, March). Self-interpretable graph learning with sufficient and necessary explanations. In *Proceedings of the AAAI conference on artificial intelligence* (Vol. 38, No. 10, pp. 11749-11756). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29059/30007), [code](https://github.com/SJTU-DMTai/SUNNY-GNN)
+- [**NeurIPS 2025**] **Deng, J.**, Shen, Y., Pei, Z., Chen, Y., & Huang, L. _Influence Guided Context Selection for Effective Retrieval-Augmented Generation_. [paper](https://openreview.net/pdf?id=ugaepulZyA), [code](https://github.com/SJTU-DMTai/RAG-CSM)
 
-- Li, T., **Deng, J.**, Shen, Y., Qiu, L., Yongxiang, H., & Cao, C. C. (2023, June). Towards fine-grained explainability for heterogeneous graph neural network. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 37, No. 7, pp. 8640-8647). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26040/25812), [code](https://github.com/LITONG99/xPath)
+- [**AAAI 2024**] **Deng, J.**, & Shen, Y. _Self-interpretable graph learning with sufficient and necessary explanations_. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29059/30007), [code](https://github.com/SJTU-DMTai/SUNNY-GNN)
+
+- [**AAAI 2023**] Li, T., **Deng, J.**, Shen, Y., Qiu, L., Yongxiang, H., & Cao, C. C. _Towards fine-grained explainability for heterogeneous graph neural network_. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26040/25812), [code](https://github.com/LITONG99/xPath)
 
   
